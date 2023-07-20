@@ -1,0 +1,1 @@
+{"version":3,"file":"integration_googlevertexai.js","sourceRoot":"","sources":["../../../src/models/chat/integration_googlevertexai.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sCAAsC,CAAC;AAE1E,MAAM,KAAK,GAAG,IAAI,kBAAkB,CAAC;IACnC,WAAW,EAAE,GAAG;CACjB,CAAC,CAAC"}
