@@ -71,7 +71,7 @@ export class ConfluencePagesLoader extends BaseDocumentLoader {
 
       const response = await fetch(url, {
         headers: {
-          Authorization: `Basic ${authToken}`,
+          Authorization: `Bearer ${authToken}`,
           "Content-Type": "application/json",
           Accept: "application/json",
         },
